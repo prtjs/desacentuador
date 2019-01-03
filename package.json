@@ -1,0 +1,13 @@
+{
+  "name": "desacentuador",
+  "version": "1.0.0",
+  "description": "Desacentuador para textos na língua portuguesa.",
+  "main": "index.js",
+  "keywords": [
+    "accents", "acentos",
+    "portuguese", "português",
+    "diacritics", "diacríticos"
+  ],
+  "author": "Matheus Alves",
+  "license": "MIT"
+}
