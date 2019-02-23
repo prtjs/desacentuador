@@ -17,7 +17,7 @@ Está registrado em [npmjs.org](https://npmjs.org), então instale-o como quiser
 Tente isso:
 
 ```bash
-npm install desacentudaor
+npm install desacentuador
 ```
 
 ## Uso
