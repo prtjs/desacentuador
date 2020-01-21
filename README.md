@@ -6,7 +6,7 @@ Feito para ser minimalista.
 
 **OBS. 1:** Funciona apenas para acentos da língua portuguesa.
 
-**OBS. 2:** O trema (¨), que foi extindo no [AO90 (Base XIV)](http://www.priberam.pt/docs/AcOrtog90.pdf), é removido.
+**OBS. 2:** O trema (¨) que foi extindo no [AO90 (Base XIV)](http://www.priberam.pt/docs/AcOrtog90.pdf) é removido.
 
 ## Instalação
 
