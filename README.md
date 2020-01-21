@@ -10,7 +10,7 @@ Feito para ser minimalista.
 
 ## Instalação
 
-O pacote está registrado como [`desacentuador`](https://npmjs.org/desacentuador).
+O pacote está registrado como [`desacentuador`](https://www.npmjs.com/package/desacentuador).
 
 Algumas formas de instalação:
 
