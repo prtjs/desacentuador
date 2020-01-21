@@ -1,7 +1,7 @@
 {
   "name": "desacentuador",
   "version": "1.0.0",
-  "description": "Desacentuador para textos na língua portuguesa.",
+  "description": "Desacentuador para língua portuguesa.",
   "main": "index.js",
   "keywords": [
     "accents", "acentos",

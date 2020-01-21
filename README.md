@@ -1,40 +1,39 @@
 # Desacentuador
 
-> Desacentuador para textos na língua portuguesa.
+> Desacentuador para língua portuguesa.
 
-**OBSERVAÇÃO 1:** Isso é só para acentos usados na língua portuguesa.
+Feito para ser minimalista.
 
-**OBSERVAÇÃO 2:** O trema (que foi extindo do idioma) também é removido.
+**OBS. 1:** Funciona apenas para acentos da língua portuguesa.
 
-Feito para ser simples.
-
-Feito para resolver problemas bem específicos.
+**OBS. 2:** O trema (¨), que foi extindo no [AO90 (Base XIV)](http://www.priberam.pt/docs/AcOrtog90.pdf), é removido.
 
 ## Instalação
 
-Está registrado em [npmjs.org](https://npmjs.org), então instale-o como quiser.
+O pacote está registrado como [`desacentuador`](https://npmjs.org/desacentuador).
 
-Tente isso:
+Algumas formas de instalação:
 
 ```bash
-npm install desacentuador
+# Com `npm`
+$ npm install desacentuador
+
+# Com `yarn`
+$ yarn add desacentuador
 ```
 
 ## Uso
 
-É só uma função que recebe um *string* e retorna outra *string*.
+Somente uma função que recebe uma *string* e retorna outra *string*.
 
-Veja um exemplo bem simples:
+Exemplo de uso:
 
 ```js
 var removeAccents = require('desacentuador')
 
 removeAccents('Olá!')
-
-// Isso vai retornar 'Ola!'
+//=> 'Ola!'
 ```
-
-Simples, não é?
 
 ## Licença
 
